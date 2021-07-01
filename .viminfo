@@ -11,6 +11,8 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:q!
+|2,0,1625121528,,"q!"
 :wq!
 |2,0,1625120445,,"wq!"
 
@@ -25,24 +27,70 @@
 # Registers:
 
 # File marks:
-'0  30  0  ~/sample.txt
-|4,48,30,0,1625120445,"~/sample.txt"
-'1  60  25  /etc/ssh/sshd_config
-|4,49,60,25,1624848502,"/etc/ssh/sshd_config"
-'2  56  25  /etc/ssh/sshd_config
-|4,50,56,25,1624775630,"/etc/ssh/sshd_config"
-'3  56  25  /etc/ssh/sshd_config
-|4,51,56,25,1624775630,"/etc/ssh/sshd_config"
+'0  1  0  ~/javamavenjenkins/sample.sh
+|4,48,1,0,1625121528,"~/javamavenjenkins/sample.sh"
+'1  1  0  ~/govi/declarativepipeline/sample.txt
+|4,49,1,0,1625121441,"~/govi/declarativepipeline/sample.txt"
+'2  30  0  ~/sample.txt
+|4,50,30,0,1625120445,"~/sample.txt"
+'3  60  25  /etc/ssh/sshd_config
+|4,51,60,25,1624848502,"/etc/ssh/sshd_config"
+'4  56  25  /etc/ssh/sshd_config
+|4,52,56,25,1624775630,"/etc/ssh/sshd_config"
+'5  56  25  /etc/ssh/sshd_config
+|4,53,56,25,1624775630,"/etc/ssh/sshd_config"
 
 # Jumplist (newest first):
+-'  1  0  ~/javamavenjenkins/sample.sh
+|4,39,1,0,1625121528,"~/javamavenjenkins/sample.sh"
+-'  1  0  ~/govi/declarativepipeline/sample.txt
+|4,39,1,0,1625121441,"~/govi/declarativepipeline/sample.txt"
+-'  1  0  ~/govi/declarativepipeline/sample.txt
+|4,39,1,0,1625121441,"~/govi/declarativepipeline/sample.txt"
 -'  30  0  ~/sample.txt
 |4,39,30,0,1625120445,"~/sample.txt"
+-'  30  0  ~/sample.txt
+|4,39,30,0,1625120445,"~/sample.txt"
+-'  30  0  ~/sample.txt
+|4,39,30,0,1625120445,"~/sample.txt"
+-'  30  0  ~/sample.txt
+|4,39,30,0,1625120445,"~/sample.txt"
+-'  1  0  ~/sample.txt
+|4,39,1,0,1625120427,"~/sample.txt"
+-'  1  0  ~/sample.txt
+|4,39,1,0,1625120427,"~/sample.txt"
+-'  1  0  ~/sample.txt
+|4,39,1,0,1625120427,"~/sample.txt"
 -'  1  0  ~/sample.txt
 |4,39,1,0,1625120427,"~/sample.txt"
 -'  60  25  /etc/ssh/sshd_config
 |4,39,60,25,1624848502,"/etc/ssh/sshd_config"
 -'  60  25  /etc/ssh/sshd_config
 |4,39,60,25,1624848502,"/etc/ssh/sshd_config"
+-'  60  25  /etc/ssh/sshd_config
+|4,39,60,25,1624848502,"/etc/ssh/sshd_config"
+-'  60  25  /etc/ssh/sshd_config
+|4,39,60,25,1624848502,"/etc/ssh/sshd_config"
+-'  60  25  /etc/ssh/sshd_config
+|4,39,60,25,1624848502,"/etc/ssh/sshd_config"
+-'  60  25  /etc/ssh/sshd_config
+|4,39,60,25,1624848502,"/etc/ssh/sshd_config"
+-'  60  25  /etc/ssh/sshd_config
+|4,39,60,25,1624848502,"/etc/ssh/sshd_config"
+-'  60  25  /etc/ssh/sshd_config
+|4,39,60,25,1624848502,"/etc/ssh/sshd_config"
+-'  56  25  /etc/ssh/sshd_config
+|4,39,56,25,1624848495,"/etc/ssh/sshd_config"
+-'  56  25  /etc/ssh/sshd_config
+|4,39,56,25,1624848495,"/etc/ssh/sshd_config"
+-'  56  25  /etc/ssh/sshd_config
+|4,39,56,25,1624848495,"/etc/ssh/sshd_config"
+-'  56  25  /etc/ssh/sshd_config
+|4,39,56,25,1624848495,"/etc/ssh/sshd_config"
+-'  56  25  /etc/ssh/sshd_config
+|4,39,56,25,1624848495,"/etc/ssh/sshd_config"
+-'  56  25  /etc/ssh/sshd_config
+|4,39,56,25,1624848495,"/etc/ssh/sshd_config"
 -'  56  25  /etc/ssh/sshd_config
 |4,39,56,25,1624848495,"/etc/ssh/sshd_config"
 -'  56  25  /etc/ssh/sshd_config
@@ -51,6 +99,42 @@
 |4,39,56,25,1624775630,"/etc/ssh/sshd_config"
 -'  56  25  /etc/ssh/sshd_config
 |4,39,56,25,1624775630,"/etc/ssh/sshd_config"
+-'  56  25  /etc/ssh/sshd_config
+|4,39,56,25,1624775630,"/etc/ssh/sshd_config"
+-'  56  25  /etc/ssh/sshd_config
+|4,39,56,25,1624775630,"/etc/ssh/sshd_config"
+-'  56  25  /etc/ssh/sshd_config
+|4,39,56,25,1624775630,"/etc/ssh/sshd_config"
+-'  56  25  /etc/ssh/sshd_config
+|4,39,56,25,1624775630,"/etc/ssh/sshd_config"
+-'  56  25  /etc/ssh/sshd_config
+|4,39,56,25,1624775630,"/etc/ssh/sshd_config"
+-'  56  25  /etc/ssh/sshd_config
+|4,39,56,25,1624775630,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1624775606,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1624775606,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1624775606,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1624775606,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1624775606,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1624775606,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1624775606,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1624775606,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1624775606,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1624775606,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1624775606,"/etc/ssh/sshd_config"
+-'  1  0  /etc/ssh/sshd_config
+|4,39,1,0,1624775606,"/etc/ssh/sshd_config"
 -'  1  0  /etc/ssh/sshd_config
 |4,39,1,0,1624775606,"/etc/ssh/sshd_config"
 -'  1  0  /etc/ssh/sshd_config
@@ -61,6 +145,14 @@
 |4,39,1,0,1624775606,"/etc/ssh/sshd_config"
 
 # History of marks within files (newest to oldest):
+
+> ~/javamavenjenkins/sample.sh
+	*	1625121526	0
+	"	1	0
+
+> ~/govi/declarativepipeline/sample.txt
+	*	1625121438	0
+	"	1	0
 
 > ~/sample.txt
 	*	1625120443	0
